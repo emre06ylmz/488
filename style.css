@@ -1,0 +1,63 @@
+
+/*
+	Designer     : Emre YILMAZ
+	Project Name : Twitter Search Engine
+	Project Date : 20.03.2013 - 01.04.2013
+*/
+
+body
+{
+    background-repeat:no-repeat;
+	background-size: 100%;	
+}
+
+
+.resizedTextbox {;
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 40px;
+	border-Color:white;
+	color: white;
+	font-size: 22px;
+	border-width:4px;
+	
+}
+
+.tweetContent{
+	width:600px;
+	height:60px;
+	
+}
+
+
+.tweetField{
+	width:700px;
+	margin: 0 auto;
+}
+
+
+
+.tweets{
+	width:965px;
+	margin: 0 auto;
+	margin-top: 50px;
+	font-size: 18px;
+}
+
+.myHeader{
+	width:970px;
+	height:375px;
+	margin: 0 auto;
+	background-image: url(ttt.jpg);
+}
+
+.myButton{
+	border: 2px solid #white;
+	border-radius: 10px;
+	outline: none;
+	height: 42px;
+	width: 95px;
+	margin-left : -100px;
+	font-size: 22px;
+	color: white;
+}
